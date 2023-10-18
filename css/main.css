@@ -55,8 +55,8 @@ body {
   transform: translate3d(calc(var(--index) * -5), 0, 0);
 }
 .cursor {
-  --width: calc(var(--index) * 22);
-  --height: calc(var(--index) * 14);
+  --width: calc(var(--index) * 10);
+  --height: calc(var(--index) * 10);
   position: fixed;
   width: var(--width);
   height: 0;

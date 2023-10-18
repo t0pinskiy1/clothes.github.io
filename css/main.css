@@ -3,6 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
 :root {
   --black: #141414;
   --index: calc(1vw + 1vh);
@@ -13,10 +17,7 @@
   font-family: arsenal_f;
   src: url(../fonts/arsenal-regular.woff2);
 }
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
+
 body {
   background-color: #f0f0f0;
 }
